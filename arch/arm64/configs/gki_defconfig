@@ -752,6 +752,16 @@ CONFIG_PROC_AVC=y
 CONFIG_SAMSUNG_FREECESS=y
 
 
+# CONFIG_RKP_TEST is not set
+
+
+
+
+# CONFIG_KDP_TEST is not set
+
+
+
+
 CONFIG_NTFS_FS=y
 
 
